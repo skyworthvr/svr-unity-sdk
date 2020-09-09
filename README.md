@@ -7,7 +7,7 @@
  具体信息请阅读开发者文档
  
  # Introduction
-This is the unity foundation SDK, which supports the following functions
+This is the unity basic SDK, which supports the following functions
 
  - Binocular stereo rendering
  - UI input
