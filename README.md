@@ -17,7 +17,7 @@ This is the unity basic SDK, which supports the following functions
  - UI input
  
  File description:
- - svr_unity_sdk_common.unitypackage    Base Unity SDK, shoud imported before dev.
- - svr_unity(ver.2019&beyond)_sdk_plugin.tgz   Used with Unity ver.2019 and beyond for xr puling system, see section 7 of dev doc for detail.
+ - svr_unity_sdk_common.unitypackage    -Base Unity SDK, shoud imported before dev.
+ - svr_unity(ver.2019&beyond)_sdk_plugin.tgz   -Used with Unity ver.2019 and beyond for xr plugin system, see section 7 of dev doc for detail.
  
  Please read the developer documentation for details
