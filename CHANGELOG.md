@@ -8,7 +8,7 @@ Source code in **SvrKeyBoard** folder.
 * Fixed bug
 # 2.0.3 (2020-11-16)
 * 优化视角回正功能
-* 支持URP渲染关系
+* 支持URP渲染管线
 * 支持S802设备
 # 2.0.2 (2020-10-15)
 * Fixed bug
