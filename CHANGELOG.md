@@ -1,3 +1,5 @@
+# 2.0.7 (2021-03-27)
+* Fixed bug
 # 2.0.6 (2021-01-29)
 * Keyboard   
 Source code in **SvrKeyBoard** folder.
