@@ -1,3 +1,7 @@
+# 2.0.8 (2021-4-28)
+* Support Reflection Probe.
+* The keyboard supports adjusting the position with the controller.
+* Fixed bug
 # 2.0.7 (2021-03-27)
 * Fixed bug
 # 2.0.6 (2021-01-29)
@@ -24,7 +28,7 @@ Source code in **SvrKeyBoard** folder.
 # 1.4.29 (2020-07-06)
 * Fixed bug
 * 应用启动动画可配置  
-  在Assets/Plugins/Android/assets/splash.cfg文件中，**USE_SVR_SPLASH=1**表示使用系统启动动画，**USE_SVR_SPLASH=0**则关闭。
+  在Assets/Plugins/Android/assets/splash.cfg文件中，**DISABLE_SVR_SPLASH=0**表示使用系统启动动画，**DISABLE_SVR_SPLASH=1**则关闭。
 # 1.4.28 (2020-06-22)
 * Fixed bug
 # 1.4.27 (2020-06-18)
